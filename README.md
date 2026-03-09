@@ -33,7 +33,7 @@
 
 1. Клонуйте репозиторій або завантажте файли проекту:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Sergei-Monastyretskiy/lessonJS_36.git
 cd lessonJS_35
 ```
 
